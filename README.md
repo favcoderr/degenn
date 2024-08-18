@@ -4,7 +4,7 @@ The DEGEN contract is an ERC20 token with additional functionality. Apart from t
 
 ## Contract Address
 
-### **0x5dFbA09A5969e9FcF467252afA4e19DcA11Eb8B0**
+### **0x530cEB5573cf9E0a294817810D6D4b5135776DdE**
 
 ## Contract Structure
 
