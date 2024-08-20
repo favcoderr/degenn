@@ -10,7 +10,7 @@ async function main() {
 
   // Display the contract address
   console.log(`degen token deployed to ${degen.target}`);
-  // 0x5dFbA09A5969e9FcF467252afA4e19DcA11Eb8B0
+  // 0xCE5d176516b88a47dB5aE2e057c10B817c61FA19
 }
 
 // Hardhat recommends this pattern to be able to use async/await everywhere
