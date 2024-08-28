@@ -6,6 +6,11 @@ The DEGEN contract is an ERC20 token with additional functionality. Apart from t
 
 ### **0xCE5d176516b88a47dB5aE2e057c10B817c61FA19**
 
+## My Metamask Address
+
+### **0xb49e01B29BAd2c70a331fc876b129457542F7563**
+
+
 ## Contract Structure
 
 This contract is based on Solidity version 0.8.19 and uses the OpenZeppelin ERC20 contract for the basic ERC20 functionality.
